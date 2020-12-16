@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{ソフトウェア工学の基礎知識}
+白鳥則郎, 高橋薫, 神長裕明：ソフトウェア工学の基礎知識, 昭晃堂, 東京 (1997).
+
+\bibitem{word2vec}
+Mikolov,~T., Chen,~K., Corrado,~G.~S. and Dean,~J.: Efficient Estimation of
+  Word Representations in Vector Space (2013).
+
+\bibitem{doc2vec}
+Le,~Q.~V. and Mikolov,~T.: Distributed Representations of Sentences and
+  Documents, in {\em International Conference on Machine Learning} (2014).
+
+\bibitem{CNN}
+Matsugu,~M., Mori,~K., Mitari,~Y. and Kaneda,~Y.: Subject independent facial
+  expression recognition with robust face detection using a convolutional
+  neural network, {\em Neural Networks}, Vol.~16, No.~5, pp. 555 -- 559 (2003),
+  Advances in Neural Networks Research: IJCNN '03.
+
+\bibitem{JavaParser}
+JavaParser, For processing Java code, https://javaparser.org/.
+
+\end{thebibliography}
